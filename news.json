@@ -1,0 +1,26 @@
+{
+    "appiosversion":"1.0.1",
+    "appandroidversion":"1.0.1",
+    "news":[
+        {
+            "date":"05/01/2021",
+            "description":"Dal 5 al 7 gennaio sono state consegnate 438.750 dosi di vaccino."
+        },
+        {
+            "date":"05/01/2021",
+            "description":"Il 5 gennaio sono state consegnate 215.475 dosi di vaccino."
+        },
+        {
+            "date":"30/12/2020",
+            "description":"Dal 30 dicembre al 1 gennaio sono state consegnate 469.950 dosi di vaccino."
+        },
+        {
+            "date":"27/12/2020",
+            "description":"Il 27 dicembre sono state consegnate 9.750 dosi di vaccino, interamente somministrate"
+        },
+        {
+            "date":"27/12/2020",
+            "description":"Le somministrazioni delle dosi di vaccino su tutto il territorio sono iniziate il 27 dicembre"
+        }
+    ]
+}
