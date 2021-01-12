@@ -3,6 +3,14 @@
     "appandroidversion":"1.0.1",
     "news":[
         {
+            "date":"11/01/2021",
+            "description":"L'11 gennaio sono state consegnate 75.075 dosi di vaccino"
+        },
+        {
+            "date":"11/01/2021",
+            "description":"Dal 30 dicembre al 7 gennaio sono state consegnate 908.700 dosi di vaccino"
+        },
+        {
             "date":"05/01/2021",
             "description":"Dal 5 al 7 gennaio sono state consegnate 438.750 dosi di vaccino."
         },
